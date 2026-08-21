@@ -1,0 +1,25 @@
+{
+    "cellshop":[{
+        "marca":"samsung",
+        "modelo":"a56",
+        "precio":250000,
+        "stock":10,
+        "reacondicionado":false,
+        "color":["azul","negro","rojo"],
+        "propiedades":[{
+            "camara":"50mpx",
+            "memoria":"128gb"
+        }]
+    },{
+        "marca":"iphone",
+        "modelo":"17 pro max",
+        "precio":2500000,
+        "stock":6,
+        "reacondicionado":false,
+        "color":["azul","negro","rojo"],
+        "propiedades":[{
+            "camara":"128mpx",
+            "memoria":"1tb"
+        }]
+    },{},{}]
+}
