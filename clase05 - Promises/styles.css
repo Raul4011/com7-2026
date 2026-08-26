@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.header {
+    background-color: orange;
+}
+.main {
+    background-color: lightblue;
+}
+.footer {
+    background-color: orange;
+}
+
+.h3 {
+    color: red
+}
+.btn {
+    background-color: tomato;
+    color: red;
+    border: 1px soli red;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: lightgreen;
+}

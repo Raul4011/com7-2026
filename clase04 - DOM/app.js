@@ -81,8 +81,6 @@ function handleSubmit(e) {
 
 document.getElementById('btnSubmit').addEventListener('click',handleSubmit)
 
-
-
 document.getElementById('root').innerHTML = `
 <table>
     <thead>
@@ -97,3 +95,10 @@ document.getElementById('root').innerHTML = `
     </tbody>
 </table>
 `
+
+
+
+
+
+
+
