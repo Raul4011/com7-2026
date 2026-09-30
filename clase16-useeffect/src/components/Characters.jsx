@@ -24,7 +24,6 @@ const Characters = () => {
         getCharacters()
     }, [])
 
-
     const handleSubmit = async(e) => {
         e.preventDefault()
         let response = await fetch(`${BASE_URL_CHARACTERS}?name=${busqueda}`)
